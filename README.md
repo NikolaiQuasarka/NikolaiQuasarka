@@ -2,4 +2,4 @@
 ## Who am i?
 A rust and web developer.
 
-![gopher dancing](./ferrris.gif)
+![ferris](./ferrris.gif)
